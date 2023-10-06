@@ -1,5 +1,6 @@
 # MachineLearning-KNN-Data-Particle
 
+![Flowchart](FlowchartKNN.png)
 ## Anggota Kelompok
 1. Fillah Alamsyah 1207030015
 2. Faris Haidar Mubasyir 1207030014
