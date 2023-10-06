@@ -1,6 +1,6 @@
 # MachineLearning-KNN-Data-Particle
 
-![Flowchart](FlowchartKNN.png)
+![FlowchartKNN.png](https://github.com/FillahAlamsyah/MachineLearning-KNN-Data-Particle/blob/main/Flowchart%20KNN.png?raw=true)
 ## Anggota Kelompok
 1. Fillah Alamsyah 1207030015
 2. Faris Haidar Mubasyir 1207030014
